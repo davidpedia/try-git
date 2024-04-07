@@ -1,3 +1,4 @@
 text ini untuk belajar github
       bukan coding
-      tambahan kedua
+      tambahan kedua (ubah baris 2)
+      tambah baris 3
